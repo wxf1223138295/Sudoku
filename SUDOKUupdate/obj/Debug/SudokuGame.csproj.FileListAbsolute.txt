@@ -1,0 +1,44 @@
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe.config
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.pdb
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.exe
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.pdb
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Choose.resources
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Warning.resources
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+C:\Users\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.MainWindows.resources
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe.config
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.exe
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.pdb
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.pdb
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.MainWindows.resources
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Choose.resources
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Warning.resources
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Properties.Resources.resources
+E:\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe.config
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.exe
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.pdb
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.pdb
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.MainWindows.resources
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Choose.resources
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Warning.resources
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Properties.Resources.resources
+F:\SUDUKU\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+D:\Socket\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe.config
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.exe
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.pdb
+D:\Socket\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe
+D:\Socket\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.pdb
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.MainWindows.resources
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Choose.resources
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Warning.resources
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.Properties.Resources.resources
+D:\Socket\SUDOKUupdate\SUDOKUupdate\obj\Debug\SudokuGame.csproj.GenerateResource.Cache

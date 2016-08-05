@@ -1,0 +1,11 @@
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe.config
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.exe
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\bin\Debug\SUDOKUupdate.pdb
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.csprojResolveAssemblyReference.cache
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.Properties.Resources.resources
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.csproj.GenerateResource.Cache
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.exe
+c:\users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.pdb
+C:\Users\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.Form2.resources
+C:\Users\v-xwiaof\Documents\Visual Studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.Form3.resources
+C:\Users\v-xwiaof\documents\visual studio 2013\Projects\SUDOKUupdate\SUDOKUupdate\obj\Debug\SUDOKUupdate.SUDOKU.resources
